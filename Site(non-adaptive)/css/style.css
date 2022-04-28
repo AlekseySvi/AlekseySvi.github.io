@@ -1,0 +1,221 @@
+*{
+	box-sizing: border-box;
+
+}
+
+body{
+	font-family: Montserrat, sans-serif;
+	line-height: 1.5;
+	color: #333333;
+
+
+}
+
+header{
+	
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+.section{
+	background-color: #ffbf69;
+}
+
+.head p{
+	
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.head-left p{
+	
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.head{
+	padding: 40px 50px;
+	float: right;
+	font-size: 14px;
+	display: inline-block;
+	margin-left: 70px;
+
+
+}
+
+.head-left{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 14px;
+	display: inline-block;
+}
+
+.form-header{
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #ffffff;
+	font-size: 180px;
+
+
+
+	
+}
+.block-1{
+	text-align: center;
+	display: inline-flex;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+.form{
+	text-align: left;
+	position: absolute;
+
+}
+
+.description{
+	color: #ffffff;
+	font-size: 24px;
+}
+
+.btn-1{
+	
+	margin-top: 80px;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #000000;
+	background-color: #cbf3f0;
+	border: none;
+	width: 250px;
+	height: 60px;
+	margin: 90px auto;
+
+}
+
+.img-1{
+	text-align: left;
+	margin-left: 150px;
+
+}
+
+.section-2{
+	background-color: #ffffff;
+	
+}
+
+.heading{
+	
+	padding: 110px 20px 20px 20px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+.description-2{
+	margin: 0px 260px 110px 260px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.section-3{
+	text-align: center;
+	background-color: #cbf3f0;
+	
+}
+
+.col{
+	display: inline-block;
+	text-align: center;
+	margin: 40px 180px;
+	width: 120px;
+}
+
+.btn-2{
+	margin-top: 20px;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #000000;
+	background-color:#ffbf69;
+	border: none;
+	height: 35px;
+	width: 110px;
+}
+
+.section-3 p{
+	font-weight: 900;
+
+}
+
+.section-4{
+	background-color: #ffffff;
+}
+
+.rules{
+	font-size: 24px;
+	font-weight: 900;
+	padding: 110px 0px 20px 90px;
+}
+
+.description-3{
+	margin: 0px 0px 210px 90px;
+	font-size: 14px;
+	text-align: left;
+}
+
+.back-pic{
+	margin: 170px 0px 0px 200px;
+}
+
+.text{
+	margin: 110px -120px 0px 90px;
+	position: absolute;
+}
+
+.game{
+	display: inline-flex;
+	top: 0;
+}
+
+.rigth-pic{
+margin: 110px 90px 0px -360px;
+width: 600px;
+}
+
+.section-5{
+	background-color: #333333;
+
+}
+
+
+.foot{
+	padding: 20px 50px;
+	float: right;
+	font-size: 14px;
+	display: inline-block;
+	margin-left: 70px;
+	margin-right: 90px;
+	
+}
+
+.foot-left{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 14px;
+	display: inline-block;
+	margin-left: 90px;
+}
+
+.foot p{
+	color: #fffcf9;
+}
+
+.foot-left p{
+	color: #fffcf9;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.section-5 footer{
+	position: relative;
+}
